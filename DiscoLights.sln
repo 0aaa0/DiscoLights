@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoLights", "DiscoLights\DiscoLights.csproj", "{8B3D5789-4850-4349-ACAC-6AA9EB702779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3D5789-4850-4349-ACAC-6AA9EB702779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3D5789-4850-4349-ACAC-6AA9EB702779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3D5789-4850-4349-ACAC-6AA9EB702779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3D5789-4850-4349-ACAC-6AA9EB702779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D340DFB4-B1C5-46A3-ACFD-9EFD55955850}
+	EndGlobalSection
+EndGlobal
